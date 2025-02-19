@@ -31,5 +31,9 @@ Overall not a lot of change I need towards it since it was amde with another pro
   
   **Enhancements:** I made imporvments with the scripts made it more cleaner and readable. Adding new formats of code and new loops with in I feel happy that I have done it.
 
+
+### Self Assessment
+Through these enhanancements i have demonstrated my ability to use algorithms, develop, scalable software, and manage databases effectively. This ePortfolio reflects my growth within these courses and many more I have done for computer science.
+
   
   
