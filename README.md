@@ -4,7 +4,7 @@
 
 ## Overview
   Welcome to my ePortfolio, where I show off my computer science skills and growth in Computer Science through ehanced projects from the following
-  - **Software Design % Engineering**
+  - **Software Design & Engineering**
   - **Algorithms & Data Structures**
   - **Databases**
 
